@@ -6,7 +6,6 @@ public class test {
 		System.out.println("hello Á¤¶õ");
 
 		
-		
 	}
 
 }
